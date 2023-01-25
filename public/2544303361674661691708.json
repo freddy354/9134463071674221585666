@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339737111162",
+    "project_id": "bw-black-wallpaper",
+    "storage_bucket": "bw-black-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339737111162:android:0dbc08810cf7512c81a9c3",
+        "android_client_info": {
+          "package_name": "bw.black.wallpaperdarkbg4k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339737111162-hldktbqcd2108j5rsjjspbgfbfokvg1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMNB4hyTyo7Jec59Eu-LssGCC9Qz7F3g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339737111162-hldktbqcd2108j5rsjjspbgfbfokvg1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
